@@ -138,7 +138,3 @@ banking-modern-datastack/
 - **CI/CD workflows** ensuring reliability 
 
 ---
-
-**Author**: *Jaya Chandra Kadiveti*  
-**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)  
